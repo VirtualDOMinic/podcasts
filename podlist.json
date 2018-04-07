@@ -7,31 +7,38 @@
     "desc": "Informative deep dives into various full-stack web development topics."
   },
   {
-    "title": "Bt",
-    "image": "/img/b.png",
-    "author": ["B1","B2"],
-    "cat": ["Bc"],
-    "desc": "Bd"
+    "title": "BaseCS",
+    "image": "/img/Basecs.png",
+    "author": ["Vaidehi Joshi","Saron Yitbarek"],
+    "cat": ["Coding"],
+    "desc": "Interesting, informative chats covering computer science-related topics."
   },
     {
-    "title": "Z",
-    "image": "/img/Z.png",
-    "author": ["Z"],
-    "cat": ["Z"],
-    "desc": "Z"
+    "title": "CodeNewbie",
+    "image": "/img/Codenewbie.png",
+    "author": ["Saron Yitbarek"],
+    "cat": ["Coding"],
+    "desc": "Stories from people on their coding journey."
   },
     {
-    "title": "1",
-    "image": "/img/2.png",
-    "author": ["3"],
-    "cat": ["4"],
-    "desc": "5"
+    "title": "Cortex",
+    "image": "/img/Cortex.png",
+    "author": ["CGP Grey","Myke Hurley"],
+    "cat": ["Tech","Productivity"],
+    "desc": "Discussions on productivity, tech, specific books, and other topics relevant to personal and professional life."
   },
     {
-    "title": "a1",
-    "image": "/img/a2.png",
-    "author": ["a3","a3b"],
-    "cat": ["a4","a4b"],
-    "desc": "a5!"
+    "title": "Simplify",
+    "image": "/img/Simplify.png",
+    "author": ["Blinkist","Caitlin Schiller","Ben Schuman-Stoler"],
+    "cat": ["Productivity","Self-Improvement"],
+    "desc": "Chats and interviews covering habits, happiness, relationships and health."
   },
+    {
+    "title": "RA Exchange",
+    "image": "/img/RAExchange.png",
+    "author": ["Resident Advisor"],
+    "cat": ["Music"],
+    "desc": "Conversations with artists, labels and promoters shaping the electronic music landscape."
+  }
 ]
