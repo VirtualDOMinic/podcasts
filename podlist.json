@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Syntax",
+    "image": "/img/Syntax.png",
+    "author": ["Wes Bos", "Scott Tolinski"],
+    "cat": ["Coding"],
+    "desc": "Informative deep dives into various full-stack web development topics."
+  },
+  {
+    "title": "Bt",
+    "image": "/img/b.png",
+    "author": ["B1","B2"],
+    "cat": ["Bc"],
+    "desc": "Bd"
+  },
+    {
+    "title": "Z",
+    "image": "/img/Z.png",
+    "author": ["Z"],
+    "cat": ["Z"],
+    "desc": "Z"
+  },
+    {
+    "title": "1",
+    "image": "/img/2.png",
+    "author": ["3"],
+    "cat": ["4"],
+    "desc": "5"
+  },
+    {
+    "title": "a1",
+    "image": "/img/a2.png",
+    "author": ["a3","a3b"],
+    "cat": ["a4","a4b"],
+    "desc": "a5!"
+  },
+]
