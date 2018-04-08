@@ -1,42 +1,42 @@
 [
   {
     "title": "Syntax",
-    "image": "/img/Syntax.png",
+    "image": "img/Syntax.png",
     "author": ["Wes Bos", "Scott Tolinski"],
     "cat": ["Coding"],
     "desc": "Informative deep dives into various full-stack web development topics."
   },
   {
     "title": "BaseCS",
-    "image": "/img/Basecs.png",
+    "image": "img/Basecs.png",
     "author": ["Vaidehi Joshi","Saron Yitbarek"],
     "cat": ["Coding"],
     "desc": "Interesting, informative chats covering computer science-related topics."
   },
     {
     "title": "CodeNewbie",
-    "image": "/img/Codenewbie.png",
+    "image": "img/Codenewbie.png",
     "author": ["Saron Yitbarek"],
     "cat": ["Coding"],
     "desc": "Stories from people on their coding journey."
   },
     {
     "title": "Cortex",
-    "image": "/img/Cortex.png",
+    "image": "img/Cortex.png",
     "author": ["CGP Grey","Myke Hurley"],
     "cat": ["Tech","Productivity"],
     "desc": "Discussions on productivity, tech, specific books, and other topics relevant to personal and professional life."
   },
     {
     "title": "Simplify",
-    "image": "/img/Simplify.png",
+    "image": "img/Simplify.png",
     "author": ["Blinkist","Caitlin Schiller","Ben Schuman-Stoler"],
     "cat": ["Productivity","Self-Improvement"],
     "desc": "Chats and interviews covering habits, happiness, relationships and health."
   },
     {
     "title": "RA Exchange",
-    "image": "/img/RAExchange.png",
+    "image": "img/RAExchange.png",
     "author": ["Resident Advisor"],
     "cat": ["Music"],
     "desc": "Conversations with artists, labels and promoters shaping the electronic music landscape."
