@@ -40,5 +40,148 @@
     "author": ["Resident Advisor"],
     "cat": ["Music"],
     "desc": "Conversations with artists, labels and promoters shaping the electronic music landscape."
+  },
+  {
+    "title": "The Daily",
+    "image": "img/Thedaily.png",
+    "author": ["The NYT","Michael Barbaro"],
+    "cat": ["News","Politics"],
+    "desc": "The biggest stories of our time, told by the best journalists in the world."
+  },
+  {
+    "title": "Equity",
+    "image": "img/Equity.png",
+    "author": ["TechCrunch","Katie Roof","Matthew Lynley","Alex Wilhelm"],
+    "cat": ["Business","Tech"],
+    "desc": "A weekly podcast focused on all things money when it comes to startups"
+  },
+  {
+    "title": "The Rachel Maddow Show",
+    "image": "img/Rmaddow.png",
+    "author": ["Rachel Maddow","MSNBC"],
+    "cat": ["News","Politics"],
+    "desc": "News delivered in a way that's illuminating and dynamic, connecting the dots to make sense of complex issues."
+  },
+  {
+    "title": "The Indicator",
+    "image": "img/Theindicator.png",
+    "author": ["Planet Money"],
+    "cat": ["Business"],
+    "desc": "A little show about big ideas. A quick hit of insight into work, business, the economy, and everything else. "
+  },
+  {
+    "title": "Planet Money",
+    "image": "img/Planetmoney.png",
+    "author": ["NPR"],
+    "cat": ["Business","News","Politics"],
+    "desc": "The economy, explained, with stories and surprises."
+  },
+  {
+    "title": "Science Vs",
+    "image": "img/Sciencevs.png",
+    "author": ["Gimlet Media"],
+    "cat": ["Science","Medicine","Health"],
+    "desc": "Find out what’s fact, what’s not, and what’s somewhere in between."
+  },
+  {
+    "title": "1A",
+    "image": "img/1A.png",
+    "author": ["NPR","Joshua Johnson"],
+    "cat": ["News","Politics","Society"],
+    "desc": "Home to the US national conversation. Frames the best debate in ways to make you think, share and engage."
+  },
+  {
+    "title": "More or Less",
+    "image": "img/Moreorless.png",
+    "author": ["BBC Radio 4"],
+    "cat": ["Statistics","Science","Politics"],
+    "desc": "Make sense of the statistics which surround us"
+  },
+  {
+    "title": "Fintech Insider",
+    "image": "img/Fintechinsider.png",
+    "author": ["11FS"],
+    "cat": ["Fintech","Business","Tech"],
+    "desc": "A tri-weekly podcast dedicated to all things fintech, banking and financial services."
+  },
+  {
+    "title": "The freeCodeCamp Podcast",
+    "image": "img/fCC.png",
+    "author": ["Quincy Larson"],
+    "cat": ["Tech","Coding","Education"],
+    "desc": "The official podcast of the freeCodeCamp open source community. Lessons and stories from developers."
+  },
+  {
+    "title": "The Web Platform Podcast",
+    "image": "img/Webplat.png",
+    "author": ["Danny","Amal","Leon","Justin"],
+    "cat": ["Tech","Coding"],
+    "desc": "Covering the latest in browser features, standards, and the tools developers use to build for the Web of today and beyond."
+  },
+  {
+    "title": "Change Agent",
+    "image": "img/Changeagent.png",
+    "author": ["Charles Duhigg","The NYT"],
+    "cat": ["Self-Help","Society","Culture"],
+    "desc": "Obstacles turned into opportunities. Surprising stories from science and business to offer solutions to people's problems."
+  },
+  {
+    "title": "The Changelog",
+    "image": "img/Changelog.png",
+    "author": ["Adan Stacoviak","Jerod Santo"],
+    "cat": ["Tech","Coding"],
+    "desc": "Conversations with the hackers, leaders, and innovators of open source."
+  },
+  {
+    "title": "Programming Throwdown",
+    "image": "img/Pt.png",
+    "author": ["Patrick Wheeler","Jason Gauci"],
+    "cat": ["Tech","Coding"],
+    "desc": "Aims to educate Computer Scientists and Software Engineers on a cavalcade of programming and tech topics."
+  },
+  {
+    "title": "Full Stack Radio",
+    "image": "img/Fsr.png",
+    "author": ["Adam Wathan"],
+    "cat": ["Coding"],
+    "desc": "For developers interested in building great software products."
+  },
+  {
+    "title": "The Bike Shed",
+    "image": "img/Thebikeshed.png",
+    "author": ["Derek Prior","Sean Griffin","Amanda Hill"],
+    "cat": ["Tech","Coding"],
+    "desc": "Discussions on Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week."
+  },
+  {
+    "title": "Coder Catchup",
+    "image": "img/Cc.png",
+    "author": ["Jamie Jones"],
+    "cat": ["Tech","Coding"],
+    "desc": "Catching up with various web developers, web designers and unicorns."
+  },
+  {
+    "title": "Reasons to be Cheerful",
+    "image": "img/Reasons.png",
+    "author": ["Ed Miliband","Geoff Lloyd"],
+    "cat": ["News","Politics"],
+    "desc": "A podcast about ideas, where the hosts talk to smart thinkers from around the world."
+  },
+  {
+    "title": "RA Podcast",
+    "image": "img/Rap.png",
+    "author": ["Resident Advisor"],
+    "cat": ["Music"],
+    "desc": "An exclusive mix of electronic music from top producers and DJs around the world."
   }
 ]
+
+
+// Template: 
+// {
+//   "title": "",
+//   "image": "img/.png",
+//   "author": [""],
+//   "cat": [""],
+//   "desc": ""
+// },
