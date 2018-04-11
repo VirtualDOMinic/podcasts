@@ -107,8 +107,8 @@ img {
 }
 
 .history img {
-  width: 25vw;
-  height: 25vw;
+  width: 30vw;
+  height: 30vw;
   max-height: 150px;
   max-width: 150px;
   -webkit-box-shadow: none;
@@ -155,7 +155,7 @@ button {
 
 /* MEDIA QUERIES ATTEMPT 2 */
 
-@media (max-width: 700px) {
+@media (max-width: 650px) {
   .content-grid {
     background-color: rgb(103, 158, 247);
     grid-column: col 1 / -1;
@@ -179,6 +179,17 @@ button {
   .history {
     grid-row: 3;
   }
+
+  .history img {
+    width: 20vw;
+    height: 20vw;
+    max-height: 150px;
+    max-width: 150px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin: 1px;
+    display: inline-block; /* allow to appear side-by-side and not stack unnecessarily */
+
 }
 
 /* MEDIA QUERIES ATTEMPT 2 END *?
