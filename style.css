@@ -107,8 +107,8 @@ img {
 }
 
 .history img {
-  width: 30vw;
-  height: 30vw;
+  width: 25vw;
+  height: 25vw;
   max-height: 150px;
   max-width: 150px;
   -webkit-box-shadow: none;
