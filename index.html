@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="reset.css" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="shortcut icon" href="favicon.png">
+    <title>Random Podcast Machine by Dominic Coelho</title>
+
+</head>
+
+<body>
+
+    <div class="wrapper">
+        <div class="box title">
+            <h1>Dom's Random Podcast Machine</h1>
+        </div>
+
+        <div class="box button">
+            <p class="toptext">Click the "generate podcast" button to generate a new, randomised podcast suggestion!</p>
+            <p class="toptext">Click the podcast image to be taken to a pre-populated tweet about it.</p>
+            <p class="toptext">The layout will be improved (and made even more responsive) in due course!
+                <a href="https://github.com/VirtualDOMinic/podcasts/" target="blank">Have a look at the repo here.</a>
+            </p>
+            <button id="btn">Generate podcast</button>
+        </div>
+
+        <div class="box content-grid">
+
+            <div class="box img" id="image-placeholder">
+
+            </div>
+
+            <div class="box description" id="content"></div>
+
+            <div class="box history">
+                <h2>History:</h2>
+                <div id="history"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script type="text/javascript" src="podgen.js"></script>
+
+    <script>
+        window.onload = function () {
+            document.getElementById("btn").click();
+        }
+    </script>
+
+
+</body>
+
+</html>
