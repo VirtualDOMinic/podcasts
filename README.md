@@ -10,8 +10,8 @@ Aims: practice JS, have a go at using AJAX, work with JSON, practice basic CSS g
 - [x] ~~Javascript to bring in random quote from array~~ - now using JSON (see stretch goals) and podcasts
 - [x] Display podcast image
 - [x] Tweet button (integrated as image URL)
-- [x] Image alt text
-- [] Slightly less ugly design
+[x] Image alt text
+[] Slightly less ugly design
 
 # Longer-term ("stretch") goals:
 - [] Prettier, more responsive design (incl image)
