@@ -22,7 +22,7 @@ Aims: practice JS, have a go at using AJAX, work with JSON, practice basic CSS g
 - [x] Add podcast generator history
 - [x] Add tweet buttons for items in history
 - [x] Wrap images in history properly
-- [x] Limit history to X entries, instead of just resetting it after each 12... << DONE :) - decided to make history limited to 12 entried max, but no hard reset. See for yourself by generating >12 
+- [x] Limit history to X entries, instead of just resetting it after each 12... Update: decided to make history limited to 12 entries max, but no hard reset (thanks to good old array methods). See for yourself by generating >12 
 
 # "Nice to have"s
 - [] Avoid repeating random suggestions
