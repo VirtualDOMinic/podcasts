@@ -1,4 +1,5 @@
-# Random Podcast Machine - in progress - No libraries, no frameworks
+# Random Podcast Machine
+## No libraries, no frameworks
 Repo to upload and improve upon my random podcast project (incl. JSON data to query).
 
 Inspired by the fCC "Random Quote Machine" project.
