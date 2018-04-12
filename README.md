@@ -6,12 +6,13 @@ Inspired by the fCC "Random Quote Machine" project.
 Aims: practice JS, have a go at using AJAX, work with JSON, practice basic CSS grid layouts.
 
 # Primary goals (in order):
-- [x] Very basic (very ugly) layout/design - index and css currently not visible on github due to design!
+- [x] ~~Very basic (very ugly) layout/design - index and css currently not visible on github due to design!~~
 - [x] Javascript to bring in ~~random quote from array~~ - now using JSON (see stretch goals) and podcasts
 - [x] Display podcast image
 - [x] Tweet button (integrated as image URL)
 - [x] Image alt text
-- [] Slightly less ugly design
+- [x] Slightly less ugly design
+- [x] Responsive layout and font size
 
 # Longer-term ("stretch") goals:
 - [] Prettier, more responsive design (incl image)
@@ -21,7 +22,7 @@ Aims: practice JS, have a go at using AJAX, work with JSON, practice basic CSS g
 - [x] Add podcast generator history
 - [x] Add tweet buttons for items in history
 - [x] Wrap images in history properly
-- [x] Limit history to X entries, instead of just resetting it after each 12... << DONE :)
+- [x] Limit history to X entries, instead of just resetting it after each 12... << DONE :) - decided to make history limited to 12 entried max, but no hard reset. See for yourself by generating >12 
 
 # "Nice to have"s
 - [] Avoid repeating random suggestions
@@ -32,5 +33,3 @@ Aims: practice JS, have a go at using AJAX, work with JSON, practice basic CSS g
 # Evidence for my love of podcasts:
 Here's a recent screenshot from my PocketCasts app. 140 subscriptions and 3,282 played!
 ![](PocketCastsScreenshot.png)
-
-A bit pixelated despite downscaling, but you get the idea...
